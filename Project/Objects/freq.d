@@ -1,0 +1,34 @@
+.\objects\freq.o: ..\Hardware\FREQ\freq.c
+.\objects\freq.o: ..\Hardware\FREQ\freq.h
+.\objects\freq.o: ..\Libraries\CMSIS\stm32f10x.h
+.\objects\freq.o: ..\Libraries\CMSIS\core_cm3.h
+.\objects\freq.o: D:\KEIL 5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\freq.o: ..\Libraries\CMSIS\system_stm32f10x.h
+.\objects\freq.o: ..\User\stm32f10x_conf.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+.\objects\freq.o: ..\Libraries\CMSIS\stm32f10x.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
+.\objects\freq.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\objects\freq.o: ..\User\SysTick\systick.h
+.\objects\freq.o: D:\KEIL 5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\freq.o: ..\User\main.h

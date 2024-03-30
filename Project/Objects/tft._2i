@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\Libraries\CMSIS -I..\Libraries\STM32F10x_StdPeriph_Driver\inc -I..\User -I..\Hardware\TFT -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\User\SysTick -I..\User\SysTick -I..\Hardware\LED -I..\Hardware\ADC -I..\Hardware\TIMER -I..\Hardware\KEY -I..\Hardware\FREQ -I..\Hardware\DMA
+-I D:\DESK\¼òÒ×Ê¾²¨Æ÷STM32°æ±¾\Oscilloscope\Project\RTE
+-I "D:\KEIL 5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include"
+-I "D:\KEIL 5\ARM\CMSIS\Include"
+-D__UVISION_VERSION="515" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD
+-o .\objects\tft.o --omf_browse .\objects\tft.crf --depend .\objects\tft.d --feedback ".\Objects\BH-F103.fed" "..\Hardware\TFT\tft.c"

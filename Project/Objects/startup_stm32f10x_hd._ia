@@ -1,0 +1,6 @@
+--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"
+-I D:\Desktop\¼òÒ×Ê¾²¨Æ÷STM32°æ±¾\Oscilloscope\Project\RTE
+-I D:\Keli\KeliMDK\Pack\Keil\STM32F1xx_DFP\2.4.0\Device\Include
+-I D:\Keli\KeliMDK\ARM\CMSIS\Include
+--pd "__UVISION_VERSION SETA 514" --pd "STM32F10X_MD SETA 1"
+--list .\listings\startup_stm32f10x_hd.lst --xref -o .\objects\startup_stm32f10x_hd.o --depend .\objects\startup_stm32f10x_hd.d "..\Libraries\CMSIS\startup\startup_stm32f10x_hd.s"
